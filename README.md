@@ -61,7 +61,7 @@ Contributing
 Feel free to fork this repository, raise issues, or submit pull requests. Contributions are welcome to improve the functionality, enhance the user experience, or add new features.
 
 Contact
-For any questions, feel free to reach out to the project maintainer:
+For any questions, feel free to reach out to the project maintainer.
 
 Email: mahwishch18@gmail.com
 
